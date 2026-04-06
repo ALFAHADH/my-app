@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-demo-app",
+  "version": "1.0.0",
+  "description": "Node.js app for Jenkins pipeline",
+  "main": "app.js",
+  "scripts": {
+    "build": "echo Build step completed",
+    "test": "node test.js",
+    "start": "node app.js"
+  }
+}
